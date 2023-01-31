@@ -1,0 +1,64 @@
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\bin\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmMenu.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming_quiz.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\programming-quiz\programming-quiz\obj\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe.config
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\bin\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmMenu.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmPontuacao.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming_quiz.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\Exercícios\Exercícios-C#\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe.config
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\bin\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\bin\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmMenu.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmJogar.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmPontuacao.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming-quiz.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmPerdeu.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz\programming-quiz\obj\Debug\programming_quiz.frmMostrar.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.exe.config
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmMenu.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmJogar.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmMostrar.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmPerdeu.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmPontuacao.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.Properties.Resources.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmSair.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmVitoria.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmDados.resources
+C:\Users\Manuel Demo\Desktop\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.exe.config
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.exe
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\bin\Debug\programming-quiz.pdb
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmDados.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmMenu.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmJogar.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmMostrar.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmPerdeu.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmPontuacao.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmSair.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.frmVitoria.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming_quiz.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\12ª-classe\TLP\1ºTrimestre\projectos\programming-quiz-atualizacao\programming-quiz\obj\Debug\programming-quiz.csproj.GenerateResource.Cache

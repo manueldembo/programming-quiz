@@ -1,0 +1,46 @@
+Porque que o HTML não é uma liguagem de programação?
+Oque é uma IDE?
+Oque é uma liguagem Case Sensitive?
+Qual destas Linguagens não é Case Sensitive?
+O que significa a sigla CSS?
+O que significa a sigla HTTP?
+O que significa a sigla WWW?
+O que significa a sigla POO?
+Quais são as duas pricipais funções do Browser?
+Em que ano surgiu o C#?
+Quem foi o criador da linguagem HTML?
+Qual foi a primeira linguagem criada para multiplataforma?
+Qual foi o primeiro nome da linguagem JAVA?
+A que empresa pertence a linguagem Python?
+Qual a principal função do compilador?
+O que é um compilador?
+O que significa a sigla SQL?
+Qual a principal IDE para criação de códigos em C#?
+Qual destas não é uma linguagem da Microsoft?
+Qual a área de desenvolvimento da Linguagem JavaScript?
+Qual a função do HTML em uma página WEB?
+Qual a função do CSS em uma página WEB?
+Qual a função do JS em uma página WEB?
+Quais são os pilares para construção de uma página WEB?
+Quantos paradigmas de programação existem?
+Quais são os paradigmas de programação que existem?
+O que significa a sigla URL?
+O que deve conter uma URL?
+Qual a função do protocolo FTP?
+Quem criou a internet?
+De onde Surgiu a internet?
+Qual destas funções não pertencia a máquina básica de Turing?
+Quando é que uma limguagem de computador é considerada uma linguagem de programação?
+O que entendes por código aberto?
+O que entendes por uma aplicação DEMO?
+O que entendes por uma aplicação DESKTOP?
+O que entendes por uma aplicação Mobile?
+O que entendes por uma aplicação WEB?
+Como podemos colocar um site na Internet?
+O que significa a expressão InternetWork?
+Quem criou a Microsoft?
+Qual foi a empresa que padronizou a Ex linguagem Moca?
+Qual é a função do servidor web?
+O que é preciso para programar em HTML?
+Qual é o paradigma de programação mais recente?
+Para que serve o PHP?

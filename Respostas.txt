@@ -1,0 +1,45 @@
+Poque não é Turing Complete.
+Interface Development Entegrate.
+É uma linguagem que destingue minúsculas das maiúsculas.
+CSS.
+Cascading Style Sheets.
+Hipertext Transfer Protocol.
+Word Wide Web.
+Programação Orientada a Objectos.
+Request e Response.
+2000.
+Timothy John Berners-Lee.
+C.
+OAK.
+JetBreins.
+Tranformar o código fonte em código maquina.
+Aplicação que transforma código fonte em código objecto.
+Structured Query Language.
+Visual Studio.
+JS.
+Mobile, Game e Web.
+Define e estrutura a página.
+Definir o estilo.
+Trabalhar com interatividade.
+HTML, CSS e JS.
+2.
+Programação procedural e POO.
+Uniform Resource Locator.
+Protocolo do documento, endereço do servidor e localização do arquivo.
+Transferência de ficheiros de texto.
+Da comunicação humana.
+Marcar o texto.
+Quando é Turing Complete.
+Código em que todo mundo pode fazer suas alterações.
+É parte de uma aplicação completa.
+Aplicação para computadores.
+Aplicação para telemóveis e tabletes.
+Aplicação na internet.
+Atavés de Hospedagem.
+Conjunto de redes.
+Bill Gate e Paul Alen.
+Ecma.
+Gerenciar.
+Um editor de texto.
+POO.
+Programar Back/End em uma página.
